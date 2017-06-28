@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/comtest/comtest.iml" filepath="$PROJECT_DIR$/comtest/comtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mDService/mDService.iml" filepath="$PROJECT_DIR$/mDService/mDService.iml" />
       <module fileurl="file://$PROJECT_DIR$/testEncryption/testEncryption.iml" filepath="$PROJECT_DIR$/testEncryption/testEncryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testJava/testJava.iml" filepath="$PROJECT_DIR$/testJava/testJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/zjtest.iml" filepath="$PROJECT_DIR$/zjtest.iml" />
     </modules>
   </component>
